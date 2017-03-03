@@ -1,1 +1,4 @@
 notmNIST*
+cifar*
+__pycache__
+.ipynb*
